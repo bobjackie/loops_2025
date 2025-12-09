@@ -49,3 +49,8 @@ for new_number in new_numbers:
     tato += new_number 
 print("tato:" , tato) 
 
+lists = (5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25)
+
+for list in lists:
+    total += list
+print("total:" , total) 
